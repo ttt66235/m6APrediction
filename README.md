@@ -198,4 +198,4 @@ install.packages(c("randomForest", "stats"))
 ## 6. Contact
 
 For questions, issues, or feedback, please contact:
-[Siyuan.Guo23\@student.xjtlu.edu.cn](mailto:Siyuan.Guo23@student.xjtlu.edu.cn){.email}
+[Siyuan.Guo23\@student.xjtlu.edu.cn](mailto:Siyuan.Guo23@student.xjtlu.edu.cn)
