@@ -4,7 +4,7 @@ Version: 1.0.0
 Authors@R: 
     person("Siyuan", "Guo", , "Siyuan.Guo23@student.xjtlu.edu.cn", role = c("aut", "cre"))
 Description: A user-friendly R package designed for predicting m6A methylation sites in RNA sequences. It supports both single-sample and batch (multiple-sample) prediction tasks, leveraging a trained machine learning model (e.g., randomForest). The package integrates multi-dimensional features including GC content, RNA type, RNA region, exon length, distance to junction, evolutionary conservation, and DNA 5-mer sequences—with the latter automatically encoded into factor-type features via an internal utility function. It outputs both predicted m6A methylation probabilities and binary classification statuses ("Positive" or "Negative") based on a user-defined threshold, enabling efficient and flexible analysis for researchers in epigenetic and RNA biology.
-License: MIT
+License: MIT + file LICENSE
 Depends: R (>= 3.5.0)
 Imports: randomForest, stats
 Encoding: UTF-8
